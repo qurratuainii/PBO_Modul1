@@ -2,7 +2,7 @@
 *Latihan 1: Menyusun Algoritma
 1. Memasak Roti. Simbol Input - Output (Siapkan bahan dan alat), Simbol proses (Olesi roti dengan mentega, Panaskan sedikit mentega di atas panggangan, Bakar roti dengan api kecil selama 3 menit, Olesi roti yang telah dibakar dengan selai/meses, Hidangkan selagi hangat). Simbol Input - Output (Roti siap dinikmati). 
 
-2. Menggunakan Komputer di Laboratorium.
+2. Menggunakan Komputer di Laboratorium. Simbol Proses (Hubungkan kabel ke terminal/stop kontak, Nyalakan/Tekan tombol CPU), disini ada 2 kemungkinan NO jika tidak bisa hidup cek power supplynya, jika dia hidup YES maka prosesnya lanjut. Simbol Percabangan (Layar monitor menyala). Jika tidak menyala NO cek VGA card, Mainboard, Memory, Jika menyala YES (Masuk ke tampilan desktop dan komputer siap digunanakan).
 
 3. Menghitung rata-rata dari 3 buah bilangan. Simbol Input-Output (Masukkan nilai a,b,c). Simbol proses (Jumlah = a+b+c, Rata-rata = jumlah/3).Simbol Input Output (Tampilkan rata-rata)
 
